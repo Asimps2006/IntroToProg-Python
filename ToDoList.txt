@@ -1,0 +1,8 @@
+1,Assignment05,High
+2,Assignment06,High
+3,Brush Teeth,High
+4,Do Dishes,Super High
+5,Sweep Floors,Low
+6,Mop Floors,High
+7,Pull Weeds,Low
+8,Assignment03,Low
